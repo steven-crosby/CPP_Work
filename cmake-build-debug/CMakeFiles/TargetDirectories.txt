@@ -1,3 +1,0 @@
-/Users/Steven/CLionProjects/CPP_Work/cmake-build-debug/CMakeFiles/CPP_Work.dir
-/Users/Steven/CLionProjects/CPP_Work/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Steven/CLionProjects/CPP_Work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
